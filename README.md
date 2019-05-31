@@ -1,3 +1,5 @@
 # Example Repository
-Hello World!
-Este é meu teste de GIT REPO.
+Hello World and coders!
+Este é meu teste de GIT REPO modificado!
+
+Depois de enviado ao GIT, esta é a primeira modificação.
